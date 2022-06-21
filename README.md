@@ -8,7 +8,6 @@
 - Mengimplementasikan teknik visualisasi data berhirarki pada data Potensi Desa 2018 dengan tiga teknik visualisasi data berhirarki yaitu Bar Chart, Tree Map, dan Sunburst Chart
 - Melakukan evaluasi visualisasasi data berhirarki dan mengetahui peringkat visualisasi data berhirarki terbaik pada data Potensi Desa 2018.
 <br/>
-<br/>
 
 ### Data yang digunakan:
 Podes 2018: Jumlah Desa/Kelurahan Yang Mempunyai 
